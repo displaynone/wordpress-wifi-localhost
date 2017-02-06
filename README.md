@@ -2,7 +2,7 @@
 
 Want to test your responsive theme in localhost in your mobile device? When you are developing in localhost is hard to test in your smart phone or tablet. This WordPress plugin helps you to access to your localhost web server through your LAN
 
-## Install
+## Instalation
 
 * Download, install and active the plugin
 * Access to settings page *Tools > WIFI Access* and set your LAN mask (usually **192.168.1.**)
